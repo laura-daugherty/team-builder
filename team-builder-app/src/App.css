@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.submitButton {
+  width: 70px;
+}
